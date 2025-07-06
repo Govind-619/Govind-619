@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-one-rust-18.vercel.app/api?username=Govind-619&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-jnzc.vercel.app/?user=Govind-619&theme=dark&hide_border=false)
+![](https://github-readme-stats-jnzc.vercel.app/?username=Govind-619&theme=dark&hide_border=false)
 ![](https://github-readme-stats-one-rust-18.vercel.app/api/top-langs/?username=Govind-619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
