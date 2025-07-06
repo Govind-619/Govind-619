@@ -10,11 +10,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-one-rust-18.vercel.app/api?username=Govind-619&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Govind-619&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Govind-619&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-one-rust-18.vercel.app/api/top-langs/?username=Govind-619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark&border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Govind-619&limit=5&theme=dark&combine_all_yearly_contributions=true)
