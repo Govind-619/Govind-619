@@ -1,17 +1,56 @@
-💫 About Me:
+## 💫 About Me  
 
-<b>🚀 Backend Developer | Golang | PostgreSQL | Cloud & DevOps Enthusiast</b><br><br>
+### 🚀 **Backend Developer | Golang | PostgreSQL | Cloud & DevOps Enthusiast**
 
-🔹 Passionate backend developer building scalable web applications using Go, PostgreSQL, and modern backend architectures.<br>
-🔹 Experienced in RESTful API design, authentication systems, and database optimization.<br>
-🔹 Currently exploring advanced PostgreSQL features, Redis caching, and containerized deployments with Docker & Kubernetes.<br>
-🔹 Looking to collaborate on open-source projects involving Go, backend systems, or microservices.<br>
-🔹 Skilled in turning ideas into production-ready solutions with a focus on performance and clean code.<br><br>
+👋 Hi there! I’m **Govind S Kumar**, a passionate backend developer who loves designing reliable, scalable, and high-performance systems.  
+With a strong foundation in **Go (Golang)** and **PostgreSQL**, I focus on writing clean, efficient, and maintainable code that solves real-world problems.
 
-💬 Ask me about: Golang, PostgreSQL, REST APIs, Microservices, or transitioning from Civil Engineering to Tech.<br>
-⚡ Fun fact: I started as a Structural Engineer designing buildings — now I am an architect of digital systems!<br><br>
+---
 
-📘 LeetCode: https://leetcode.com/u/govindskumar619/
+### 🌱 **Currently Exploring**
+- 🧠 Advanced **PostgreSQL** concepts (query optimization, indexing, and window functions)  
+- ⚙️ **Redis integration** and caching strategies  
+- ☁️ **Docker**, **Kubernetes**, and **cloud-native** architectures  
+- 🧩 **Microservices** and system design patterns  
+
+---
+
+### 💻 **Technical Focus**
+- 🧱 **Backend Development:** Go, Gin, PostgreSQL  
+- 🔗 **API Engineering:** RESTful APIs, JWT Authentication, Middleware  
+- 🧮 **Database Design:** Relational modeling, constraints, triggers, and optimization  
+- 🐳 **Containerization & Deployment:** Docker, Kubernetes, AWS (EC2, S3, Lambda)  
+- 🧰 **Dev Tools:** Git, GitHub, Postman, Azure, Notion  
+
+---
+
+### 🤝 **I’m Looking to Collaborate On**
+- Open-source **Go projects** and **backend systems**  
+- Scalable **microservices** and **API-driven** applications  
+- Projects involving **database-heavy** backends or **cloud deployments**  
+
+---
+
+### 🎯 **My Goals**
+- Master distributed systems and large-scale architectures  
+- Contribute to open-source **Golang frameworks**  
+- Transition into a **Cloud Backend Developer** role combining Go + DevOps  
+
+---
+
+### 💬 **Ask Me About**
+- Go | PostgreSQL | REST APIs | Authentication | Career Transition (Civil ➜ IT)  
+
+---
+
+### ⚡ **Fun Fact**
+> I started as a **Structural Engineer**, designing real-world buildings —  
+> now I architect **digital structures** with code and logic! 💡  
+
+---
+
+### 📘 **LeetCode**
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/govindskumar619/)
 
 ---
 
@@ -90,7 +129,7 @@
 ---
 
 # 📊 LeetCode Badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=govindskumar619&animated=true&theme=dark" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=govindskumar619&animated=true&theme=dark&title=LeetCode%20Badges" alt="LeetCode Badges" width="500" />
 <br>
 
 # 📊 GitHub Stats
