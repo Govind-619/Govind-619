@@ -1,61 +1,62 @@
-## 💫 About Me  
+## 💫 About Me
 
-### 🚀 **Backend Developer | Golang | PostgreSQL | Cloud & DevOps | Messaging Systems**
+### 🚀 Golang Developer | PostgreSQL | Cloud & DevOps | Git | Linux | Master of Structural Engineering
 
-👋 Hi there! I’m **Govind S Kumar**, a backend-focused developer with a strong interest in building reliable, scalable, and production-ready systems.  
-I primarily work with **Go (Golang)** and **PostgreSQL**, and I enjoy designing clean APIs, efficient database schemas, and cloud-native backend services.
+👋 Hi there! I’m **Govind S Kumar**, a backend-focused Golang Developer with hands-on experience building scalable, cloud-native backend systems. I work primarily with **Go (Golang)** and **PostgreSQL**, and I enjoy designing clean APIs, reliable services, and production-ready deployments.
 
-I transitioned from a **Civil & Structural Engineering** background into IT by following my passion for software engineering. This journey has strengthened my analytical thinking, system-level problem solving, and discipline in design—now applied to backend and distributed systems.
-
----
-
-### 🌱 **Currently Exploring**
-- 🚀 Building **real-world Golang projects** and experimenting with idiomatic Go patterns  
-- 🗄️ Advanced **PostgreSQL** (query optimization, indexing strategies, window functions)  
-- 📡 **Messaging & Pub/Sub architectures** (RabbitMQ, event-driven systems)  
-- 🧠 **Redis** for caching and performance optimization  
-- ☁️ **Cloud-native development** using Docker, Kubernetes, and public cloud platforms  
-- 📊 Observability tools like **Prometheus** and **Grafana**  
+I am a **postgraduate in Structural Engineering** with 6+ years of industry experience, who transitioned into IT by following my passion for backend and cloud engineering. This background helps me bring strong analytical thinking, discipline, and structured problem-solving into software development.
 
 ---
 
-### 💻 **Technical Focus**
-- 🧱 **Backend Engineering:** Golang, Gin, modular service design  
-- 🔗 **API Development:** REST APIs, JWT-based authentication, middleware  
-- 🧮 **Databases:** PostgreSQL (schema design, constraints, joins, performance tuning)  
-- 📡 **Messaging Systems:** RabbitMQ, asynchronous communication, Pub/Sub patterns  
-- 🐳 **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, GCP  
-- 📊 **Monitoring & Config:** Prometheus, Grafana, YAML, Markdown  
-- 🧰 **Developer Workflow:** Git, GitHub, Linux, Postman  
+### 🌱 Currently Interested In
+- 🚀 Building real-world **Golang backend projects**
+- 🧱 Designing **scalable microservices** and distributed systems
+- ☁️ Working with **Docker, Kubernetes**, and cloud platforms (**AWS, Azure, GCP**)
+- 🔄 Messaging systems & **Pub/Sub architectures** (RabbitMQ, event-driven design)
+- 📈 Observability using **Prometheus, Grafana, Graphite**
+- 🧠 Strengthening **DSA** and system design through practical implementation
 
 ---
 
-### 🤝 **I’m Looking to Collaborate On**
-- Backend-heavy **Golang projects**  
-- **Microservices** and event-driven systems  
-- Systems involving **databases, messaging queues, and cloud deployment**  
-- Open-source projects where clean backend design matters  
+### 💻 Technical Focus
+- 🧱 **Backend Engineering:** Go (Golang), Gin, REST APIs, JWT Authentication
+- 🗄️ **Databases & Caching:** PostgreSQL, MongoDB, Redis
+- 🐳 **Cloud & DevOps:** Docker, Kubernetes, CI/CD, Jenkins
+- ☁️ **Cloud Platforms:** AWS, Azure, GCP
+- 🔄 **Messaging & Streaming:** RabbitMQ, Pub/Sub Architecture
+- 📊 **Monitoring & Observability:** Prometheus, Grafana, Graphite
+- 🧰 **Developer Tools:** Git, GitHub, Linux, Shell Scripting, Postman
+- 📝 **Config & Docs:** YAML, Markdown
 
 ---
 
-### 🎯 **My Goals**
-- Secure a **backend / cloud engineering role** working with Go and PostgreSQL  
-- Gain deep expertise in **distributed systems and messaging architectures**  
-- Contribute consistently to **open-source Golang projects**  
-- Grow into a role that blends **backend engineering + DevOps practices**  
+### 🤝 I’m Looking to Collaborate On
+- Production-ready **Golang backend projects**
+- Backend-heavy systems with PostgreSQL, Redis, messaging queues
+- Cloud-native / DevOps-focused projects
+- Open-source Go tools or learning-oriented backend repositories
 
 ---
 
-### 💬 **Ask Me About**
-- Golang | PostgreSQL | Backend APIs | Messaging Systems | Docker & Kubernetes  
-- Career transition from **Civil Engineering to IT**  
+### 🎯 My Goals
+- Secure a **Golang Backend / Cloud / DevOps role**
+- Build and contribute to **scalable, real-world systems**
+- Deepen expertise in **distributed systems & infrastructure automation**
+- Grow as a backend engineer working on meaningful products
 
 ---
 
-### ⚡ **Fun Fact**
-> I started by designing **physical structures** as a Structural Engineer —  
-> now I design **digital systems** that scale with users and data.
-💡  
+### 💬 Ask Me About
+- Golang | PostgreSQL | Backend Architecture  
+- Docker | Kubernetes | Cloud Basics  
+- RabbitMQ | Microservices | REST APIs  
+- Career transition from Civil Engineering ➜ IT
+
+---
+
+### ⚡ Fun Fact
+I designed physical structures as a **Structural Engineer** —  
+now I design **digital systems** that scale under load.💡  
 
 ---
 
