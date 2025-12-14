@@ -1,51 +1,61 @@
 ## 💫 About Me  
 
-### 🚀 **Backend Developer | Golang | PostgreSQL | Cloud & DevOps Enthusiast**
+### 🚀 **Backend Developer | Golang | PostgreSQL | Cloud & DevOps | Messaging Systems**
 
-👋 Hi there! I’m **Govind S Kumar**, a passionate backend developer who loves designing reliable, scalable, and high-performance systems.  
-With a strong foundation in **Go (Golang)** and **PostgreSQL**, I focus on writing clean, efficient, and maintainable code that solves real-world problems.
+👋 Hi there! I’m **Govind S Kumar**, a backend-focused developer with a strong interest in building reliable, scalable, and production-ready systems.  
+I primarily work with **Go (Golang)** and **PostgreSQL**, and I enjoy designing clean APIs, efficient database schemas, and cloud-native backend services.
+
+I transitioned from a **Civil & Structural Engineering** background into IT by following my passion for software engineering. This journey has strengthened my analytical thinking, system-level problem solving, and discipline in design—now applied to backend and distributed systems.
 
 ---
 
 ### 🌱 **Currently Exploring**
-- 🧠 Advanced **PostgreSQL** concepts (query optimization, indexing, and window functions)  
-- ⚙️ **Redis integration** and caching strategies  
-- ☁️ **Docker**, **Kubernetes**, and **cloud-native** architectures  
-- 🧩 **Microservices** and system design patterns  
+- 🚀 Building **real-world Golang projects** and experimenting with idiomatic Go patterns  
+- 🗄️ Advanced **PostgreSQL** (query optimization, indexing strategies, window functions)  
+- 📡 **Messaging & Pub/Sub architectures** (RabbitMQ, event-driven systems)  
+- 🧠 **Redis** for caching and performance optimization  
+- ☁️ **Cloud-native development** using Docker, Kubernetes, and public cloud platforms  
+- 📊 Observability tools like **Prometheus** and **Grafana**  
 
 ---
 
 ### 💻 **Technical Focus**
-- 🧱 **Backend Development:** Go, Gin, PostgreSQL  
-- 🔗 **API Engineering:** RESTful APIs, JWT Authentication, Middleware  
-- 🧮 **Database Design:** Relational modeling, constraints, triggers, and optimization  
-- 🐳 **Containerization & Deployment:** Docker, Kubernetes, AWS (EC2, S3, Lambda)  
-- 🧰 **Dev Tools:** Git, GitHub, Postman, Azure, Notion  
+- 🧱 **Backend Engineering:** Golang, Gin, modular service design  
+- 🔗 **API Development:** REST APIs, JWT-based authentication, middleware  
+- 🧮 **Databases:** PostgreSQL (schema design, constraints, joins, performance tuning)  
+- 📡 **Messaging Systems:** RabbitMQ, asynchronous communication, Pub/Sub patterns  
+- 🐳 **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure, GCP  
+- 📊 **Monitoring & Config:** Prometheus, Grafana, YAML, Markdown  
+- 🧰 **Developer Workflow:** Git, GitHub, Linux, Postman  
 
 ---
 
 ### 🤝 **I’m Looking to Collaborate On**
-- Open-source **Go projects** and **backend systems**  
-- Scalable **microservices** and **API-driven** applications  
-- Projects involving **database-heavy** backends or **cloud deployments**  
+- Backend-heavy **Golang projects**  
+- **Microservices** and event-driven systems  
+- Systems involving **databases, messaging queues, and cloud deployment**  
+- Open-source projects where clean backend design matters  
 
 ---
 
 ### 🎯 **My Goals**
-- Master distributed systems and large-scale architectures  
-- Contribute to open-source **Golang frameworks**  
-- Transition into a **Cloud Backend Developer** role combining Go + DevOps  
+- Secure a **backend / cloud engineering role** working with Go and PostgreSQL  
+- Gain deep expertise in **distributed systems and messaging architectures**  
+- Contribute consistently to **open-source Golang projects**  
+- Grow into a role that blends **backend engineering + DevOps practices**  
 
 ---
 
 ### 💬 **Ask Me About**
-- Go | PostgreSQL | REST APIs | Authentication | Career Transition (Civil ➜ IT)  
+- Golang | PostgreSQL | Backend APIs | Messaging Systems | Docker & Kubernetes  
+- Career transition from **Civil Engineering to IT**  
 
 ---
 
 ### ⚡ **Fun Fact**
-> I started as a **Structural Engineer**, designing real-world buildings —  
-> now I architect **digital structures** with code and logic! 💡  
+> I started by designing **physical structures** as a Structural Engineer —  
+> now I design **digital systems** that scale with users and data.
+💡  
 
 ---
 
@@ -81,6 +91,8 @@ With a strong foundation in **Go (Golang)** and **PostgreSQL**, I focus on writi
 ### 🧩 Frameworks & Libraries
 ![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -90,11 +102,14 @@ With a strong foundation in **Go (Golang)** and **PostgreSQL**, I focus on writi
 
 ### ☁️ Cloud, DevOps & Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🧰 Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -103,11 +118,17 @@ With a strong foundation in **Go (Golang)** and **PostgreSQL**, I focus on writi
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### 💻 Operating Systems
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 Operating Systems & System Knowledge
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🎨 Design & Creative Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
