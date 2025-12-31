@@ -151,12 +151,13 @@ now I design **digital systems** that scale under load.💡
 ---
 
 # 📊 LeetCode Badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=govindskumar619&animated=true&theme=dark&title=LeetCode%20Badges" alt="LeetCode Badges" width="500" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=govindskumar619&theme=dark" width="500"/>
 <br>
 
 # 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Govind-619&theme=dark)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats-one-rust-18.vercel.app/api/top-langs/?username=Govind-619&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Govind-619&theme=dark)](https://git.io/streak-stats)<br>
+## 🟦 Contribution Heatmap
+![Heatmap](https://gh-heat.anishroy.com/api/Govind-619/svg?theme=accent&darkMode=true&cellSize=13&cellGap=2&showLegend=true)
 <br>
 
 ### ✍️ Random Dev Quote
