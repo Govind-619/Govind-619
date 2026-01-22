@@ -8,49 +8,19 @@ I am a **postgraduate in Structural Engineering** with 6+ years of industry expe
 
 ---
 
-### 🌱 Currently Interested In
-- 🚀 Building real-world **Golang backend projects**
-- 🧱 Designing **scalable microservices** and distributed systems
-- ☁️ Working with **Docker, Kubernetes**, and cloud platforms (**AWS, Azure, GCP**)
-- 🔄 Messaging systems & **Pub/Sub architectures** (RabbitMQ, event-driven design)
-- 📈 Observability using **Prometheus, Grafana, Graphite**
-- 🧠 Strengthening **DSA** and system design through practical implementation
+## 🌟 Featured Projects
 
----
+| Project | Description | Tech Stack |
+|-------|-------------|-----------|
+| 📚 **ReadSphere — Scalable E-Commerce Backend** | Production-style e-commerce bookstore backend featuring JWT authentication, role-based access control, admin-managed inventory, cart workflows, and order lifecycle handling | Go, PostgreSQL, Gin, GORM, JWT |
+| 📰 **FeedForge — Distributed Blog Aggregator** | RSS/Atom feed aggregation service with user accounts, feed subscriptions, background ingestion, and persistent storage | Go, PostgreSQL |
+| 🔐 **AuthSphere — JWT Microservice** | Lightweight authentication microservice showcasing secure JWT issuance, validation, and authorization patterns | Go, JWT |
+| 📡 **EventStream — RabbitMQ Pub/Sub System** | Asynchronous publish-subscribe messaging system demonstrating event-driven communication using RabbitMQ | Go, RabbitMQ |
+| 🧭 **PokeCLI — Interactive API-Driven CLI** | Command-line application consuming external APIs with structured commands, pagination, and stateful navigation | Go |
+| ✍️ **PostCraft — AI-Powered Content Backend** | Backend service integrating OpenAI APIs to generate professional LinkedIn posts with configurable prompts | Go |
+| 🌐 **GoServe — HTTP Server Fundamentals** | Minimal yet structured HTTP server illustrating routing, middleware patterns, and request lifecycle management | Go |
+| ☁️ **CloudGo — Serverless Backend Service** | Serverless Go application demonstrating cloud-native execution and stateless backend design | Go |
 
-### 💻 Technical Focus
-- 🧱 **Backend Engineering:** Go (Golang), Gin, REST APIs, JWT Authentication
-- 🗄️ **Databases & Caching:** PostgreSQL, MongoDB, Redis
-- 🐳 **Cloud & DevOps:** Docker, Kubernetes, CI/CD, Jenkins
-- ☁️ **Cloud Platforms:** AWS, Azure, GCP
-- 🔄 **Messaging & Streaming:** RabbitMQ, Pub/Sub Architecture
-- 📊 **Monitoring & Observability:** Prometheus, Grafana, Graphite
-- 🧰 **Developer Tools:** Git, GitHub, Linux, Shell Scripting, Postman
-- 📝 **Config & Docs:** YAML, Markdown
-
----
-
-### 🤝 I’m Looking to Collaborate On
-- Production-ready **Golang backend projects**
-- Backend-heavy systems with PostgreSQL, Redis, messaging queues
-- Cloud-native / DevOps-focused projects
-- Open-source Go tools or learning-oriented backend repositories
-
----
-
-### 🎯 My Goals
-- Secure a **Golang Backend / Cloud / DevOps role**
-- Build and contribute to **scalable, real-world systems**
-- Deepen expertise in **distributed systems & infrastructure automation**
-- Grow as a backend engineer working on meaningful products
-
----
-
-### 💬 Ask Me About
-- Golang | PostgreSQL | Backend Architecture  
-- Docker | Kubernetes | Cloud Basics  
-- RabbitMQ | Microservices | REST APIs  
-- Career transition from Civil Engineering ➜ IT
 
 ---
 
