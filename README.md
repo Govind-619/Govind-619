@@ -125,7 +125,8 @@ now I design **digital systems** that scale under load.💡
 <br>
 
 # 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Govind-619&theme=dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Govind-619&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<br>
 ## 🟦 Contribution Heatmap
 ![Heatmap](https://gh-heat.anishroy.com/api/Govind-619/svg?theme=accent&darkMode=true&cellSize=13&cellGap=2&showLegend=true)
 <br>
