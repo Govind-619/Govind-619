@@ -135,10 +135,6 @@ now I design **digital systems** that scale under load.💡
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=false)
 <br>
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Govind-619&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Govind-619&icon=0&color=0)](https://visitcount.itsvg.in)
