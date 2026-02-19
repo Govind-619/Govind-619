@@ -25,7 +25,7 @@ I am a **postgraduate in Structural Engineering** with 6+ years of industry expe
 ---
 
 ### ⚡ Fun Fact
-I designed physical structures as a **Structural Engineer** —  
+I designed physical structures as a **Structural Engineer** — 
 now I design **digital systems** that scale under load.💡  
 
 ---
