@@ -13,6 +13,7 @@ I am a **postgraduate in Structural Engineering** with 6+ years of industry expe
 | Project | Description | Tech Stack |
 |-------|-------------|-----------|
 | 📚 **ReadSphere — Scalable E-Commerce Backend** | Production-style e-commerce bookstore backend featuring JWT authentication, role-based access control, admin-managed inventory, cart workflows, and order lifecycle handling | Go, PostgreSQL, Gin, GORM, JWT |
+| ⚙️ **Xtmator — Estimation Tool** | A professional, lightning-fast Construction Estimation and Standard Bill of Quantities (BOQ) System. | Go |
 | 📰 **FeedForge — Distributed Blog Aggregator** | RSS/Atom feed aggregation service with user accounts, feed subscriptions, background ingestion, and persistent storage | Go, PostgreSQL |
 | 🔐 **AuthSphere — JWT Microservice** | Lightweight authentication microservice showcasing secure JWT issuance, validation, and authorization patterns | Go, JWT |
 | 📡 **EventStream — RabbitMQ Pub/Sub System** | Asynchronous publish-subscribe messaging system demonstrating event-driven communication using RabbitMQ | Go, RabbitMQ |
@@ -20,7 +21,6 @@ I am a **postgraduate in Structural Engineering** with 6+ years of industry expe
 | ✍️ **PostCraft — AI-Powered Content Backend** | Backend service integrating OpenAI APIs to generate professional LinkedIn posts with configurable prompts | Go |
 | 🌐 **GoServe — HTTP Server Fundamentals** | Minimal yet structured HTTP server illustrating routing, middleware patterns, and request lifecycle management | Go |
 | ☁️ **CloudGo — Serverless Backend Service** | Serverless Go application demonstrating cloud-native execution and stateless backend design | Go |
-
 
 ---
 
